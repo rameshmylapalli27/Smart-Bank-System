@@ -34,7 +34,7 @@ The entry point to the system featuring a modern split-screen layout for user au
 A seamless guided registration flow collecting personal, demographic, and security credentials with regex validation.
 * **Step 1: Personal Details**
   <p align="center">
-    <img src="https://i.imgur.com/V9j00xN.png" alt="Signup Personal Details" width="700"/>
+    <img src="Images/Screenshot 2026-09-29 082314.png" alt="Signup Personal Details" width="700"/>
   </p>
 
 * **Step 2: Additional Background Details**
