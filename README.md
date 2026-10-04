@@ -25,7 +25,7 @@ This application simulates a complete ATM and core banking environment, enabling
 ### 1. Secure Login Portal
 The entry point to the system featuring a modern split-screen layout for user authentication.
 <p align="center">
-  <img src="hImages/Screenshot 2026-09-29 082236.png" alt="Login Screen" width="700"/>
+  <img src="Images/Screenshot 2026-09-29 082236.png" alt="Login Screen" width="700"/>
 </p>
 
 ---
