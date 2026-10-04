@@ -22,10 +22,12 @@ This application simulates a complete ATM and core banking environment, enabling
 
 ## 📸 Application Walkthrough & UI Showcase
 
+## 📸 Application Walkthrough & UI Showcase
+
 ### 1. Secure Login Portal
 The entry point to the system featuring a modern split-screen layout for user authentication.
 <p align="center">
-  <img src="Images/Screenshot 2026-09-29 082236.png" alt="Login Screen" width="700"/>
+  <img src="images/Screenshot 2026-09-29 082236.png" alt="Login Screen" width="700"/>
 </p>
 
 ---
@@ -34,17 +36,17 @@ The entry point to the system featuring a modern split-screen layout for user au
 A seamless guided registration flow collecting personal, demographic, and security credentials with regex validation.
 * **Step 1: Personal Details**
   <p align="center">
-    <img src="Images/Screenshot 2026-09-29 082314.png" alt="Signup Personal Details" width="700"/>
+    <img src="images/Screenshot 2026-09-29 082314.png" alt="Signup Personal Details" width="700"/>
   </p>
 
 * **Step 2: Additional Background Details**
   <p align="center">
-    <img src="https://i.imgur.com/2188qQ0.png" alt="Signup Additional Details" width="700"/>
+    <img src="images/Screenshot 2026-09-29 082400.png" alt="Signup Additional Details" width="700"/>
   </p>
 
 * **Step 3: Account Type & Auto-Generated Credentials**
   <p align="center">
-    <img src="https://i.imgur.com/QjG401G.png" alt="Signup Account Details" width="700"/>
+    <img src="images/Screenshot 2026-09-29 082857.png" alt="Signup Account Details" width="700"/>
   </p>
 
 ---
@@ -53,35 +55,33 @@ A seamless guided registration flow collecting personal, demographic, and securi
 Once authenticated, users are greeted with an interactive ATM console to manage their funds.
 * **Main ATM Dashboard:** Central hub for all banking operations.
   <p align="center">
-    <img src="https://i.imgur.com/JjYnS0t.png" alt="ATM Transactions Menu" width="700"/>
+    <img src="images/Screenshot 2026-09-29 083023.png" alt="ATM Transactions Menu" width="700"/>
   </p>
 
 * **Cash Deposit Screen:** Real-time balance reflection upon depositing funds.
   <p align="center">
-    <img src="https://i.imgur.com/8dG0T8w.png" alt="Deposit Screen" width="700"/>
+    <img src="images/Screenshot 2026-09-29 082946.png" alt="Deposit Screen" width="700"/>
   </p>
 
 * **Cash Withdrawal Screen:** Secure cash dispensing mechanism with validation checks.
   <p align="center">
-    <img src="https://i.imgur.com/2s8d38m.png" alt="Withdrawal Screen" width="700"/>
+    <img src="images/Screenshot 2026-09-29 083039.png" alt="Withdrawal Screen" width="700"/>
   </p>
 
 * **Fast Cash Interface:** Preset buttons for rapid withdrawals.
   <p align="center">
-    <img src="https://i.imgur.com/m6X71lX.png" alt="Fast Cash Screen" width="700"/>
+    <img src="images/Screenshot 2026-09-29 083057.png" alt="Fast Cash Screen" width="700"/>
   </p>
 
 * **PIN Modification:** Secure interface for changing account security credentials.
   <p align="center">
-    <img src="https://i.imgur.com/u4f4Y4t.png" alt="PIN Change Screen" width="700"/>
+    <img src="images/Screenshot 2026-09-29 083131.png" alt="PIN Change Screen" width="700"/>
   </p>
 
 * **Mini Statement Viewer:** Dialog output displaying recent account ledger activity.
   <p align="center">
-    <img src="https://i.imgur.com/j9C8F6E.png" alt="Mini Statement" width="700"/>
-  </p>
-
----
+    <img src="images/Screenshot 2026-09-29 083411.png" alt="Mini Statement" width="700"/>
+  </p>---
 
 ## 🛠️ Tech Stack
 
