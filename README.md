@@ -13,6 +13,7 @@ This application simulates a complete ATM and core banking environment, enabling
 * **Core Banking Transactions:**
   * **Cash Deposits & Withdrawals:** Real-time balance updates written directly to the database.
   * **Fast Cash:** Quick-selection preset withdrawal buttons for streamlined user experience.
+  * **PIN Change:** Secure multi-table credential updates allowing users to safely modify their security PINs.
   * **Balance Inquiry:** Instant check of the latest available account balance.
   * **Mini Statement:** Detailed, columnar text-based preview of the last 5 account transactions.
 * **Disconnected Architecture (`JdbcRowSet`):** Utilizes JDBC RowSets for flexible, scrollable, and updatable database interactions without keeping active database connections blocked indefinitely.
