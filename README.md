@@ -22,8 +22,6 @@ This application simulates a complete ATM and core banking environment, enabling
 
 ## 📸 Application Walkthrough & UI Showcase
 
-## 📸 Application Walkthrough & UI Showcase
-
 ### 1. Secure Login Portal
 The entry point to the system featuring a modern split-screen layout for user authentication.
 <p align="center">
@@ -81,7 +79,9 @@ Once authenticated, users are greeted with an interactive ATM console to manage 
 * **Mini Statement Viewer:** Dialog output displaying recent account ledger activity.
   <p align="center">
     <img src="images/Screenshot 2026-09-29 083411.png" alt="Mini Statement" width="700"/>
-  </p>---
+  </p>
+
+---
 
 ## 🛠️ Tech Stack
 
