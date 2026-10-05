@@ -106,3 +106,24 @@ com.bank/
 ├── FastCash.java             # Quick preset cash transaction window
 ├── PinChange.java            # Secure PIN modification window
 └── (Additional utility classes & connection handlers)
+
+⚙️ Setup & Installation
+Clone the repository:
+
+Bash
+git clone [https://github.com/rameshmylapalli27/Smart-Bank-System.git](https://github.com/rameshmylapalli27/Smart-Bank-System.git)
+Configure MySQL Database:
+
+Create a database named bankmanagementsystem.
+
+Set up tables for user signups, login credentials, and transaction histories.
+
+Configure Database Connection:
+
+Update your MySQL credentials (username/password) inside your connection utility class.
+
+Run the Application:
+
+Import the project into Eclipse or your preferred IDE.
+
+Run Login.java as a Java Application.
